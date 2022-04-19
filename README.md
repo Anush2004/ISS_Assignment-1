@@ -3,6 +3,8 @@
 ## Anush Anand
 ### 2021101086
 
+>Git repositary link:  https://github.com/Anush2004/ISS_Assignment-1
+
 All these instructions are compiled in Ubuntu 20.04
 
 To add execution permissions, use
@@ -11,8 +13,8 @@ To add execution permissions, use
 ### Q1:
 * Commands:
 
->* chmod +x Q1.sh
->* ./Q1.sh
+>* chmod +x q1.sh
+>* ./q1.sh
 
 * The commands are performed on quotes.txt file extracted from the github repo.
 
@@ -21,8 +23,8 @@ To add execution permissions, use
 
 ### Q2:
 * Commands:
->* chmod +x Q2.sh
->* ./Q2.sh 
+>* chmod +x q2.sh
+>* ./q2.sh 
 
 * The commands are performed on quotes.txt file extracted from the github repo.
 
@@ -31,27 +33,54 @@ The output is redirected to a file called
 
 <br>
 
-### Q3:
+### Q3-a:
 Commands:
->* chmod +x Q3.sh
->* ./Q3.sh <quotes.txt>
+>* chmod +x q3-a.sh
+>* ./q3-a.sh <quotes.txt>
 
 * The program expects an input file and then gives the desired output.
 
-* Parts a, b, c, d, and e are performed with this shell script
+### Q3-b:
+Commands:
+>* chmod +x q3-b.sh
+>* ./q3-b.sh <quotes.txt>
+
+* The program expects an input file and then gives the desired output.
+
+### Q3-c:
+Commands:
+>* chmod +x q3-c.sh
+>* ./q3-c.sh <quotes.txt>
+
+* The program expects an input file and then gives the desired output.
+
+### Q3-d:
+Commands:
+>* chmod +x q3-d.sh
+>* ./q3-d.sh <quotes.txt>
+
+* The program expects an input file and then gives the desired output.
+
+### Q3-e:
+Commands:
+>* chmod +x q3-e.sh
+>* ./q3-e.sh <quotes.txt>
+
+* The program expects an input file and then gives the desired output.
+
 <br>
 
 ### Q4:
 Commands:
->* chmod +x Q4.sh
->* ./Q4.sh
+>* chmod +x q4.sh
+>* ./q4.sh
 
 * Enter input numbers with a single comma as a separator between them to sort them in an ascending order.
 <br>
 
 ### Q5:
 Commands:
->* chmod +x Q5.sh
->* ./Q5.sh
+>* chmod +x q5.sh
+>* ./q5.sh
 
 * The program asks for a string as an input and then performs operations on it.
