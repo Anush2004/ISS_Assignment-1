@@ -1,8 +1,5 @@
 # # ISS  Assignment-1
 
-## Anush Anand
-### 2021101086
-
 >Git repositary link:  https://github.com/Anush2004/ISS_Assignment-1
 
 All these instructions are compiled in Ubuntu 20.04
